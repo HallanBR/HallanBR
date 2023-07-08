@@ -12,7 +12,7 @@
 
 ![Processador](https://img.shields.io/badge/Intel-Core_i5_11th-0071C5?style=for-the-badge&logo=intel&logoColor=white)
 
-![placa de video](https://img.shields.io/badge/NVIDIA-GTX3050-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
+![placa de video](https://img.shields.io/badge/NVIDIA-RTX3050-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
 
 ### Amante da tecnologia 😁🔥
 Segue abaixo o que ja aprendi ate o momento
