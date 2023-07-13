@@ -31,6 +31,5 @@ Segue abaixo o que ja aprendi ate o momento
 ![Xbox](https://img.shields.io/badge/Xbox-107C10?style=for-the-badge&logo=xbox&logoColor=white) HallanBR
 
 ### Em caso de contato pessoal 
-![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)  
-
+![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)👇
 Hallansousamartins@gmail.com 
