@@ -1,4 +1,3 @@
-
 ### Ola! Sou Hallan De Sousa, seja bem vindo 👋🙂
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hallan-sousa-92641b173)
