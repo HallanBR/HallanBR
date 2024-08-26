@@ -26,6 +26,7 @@ Habilidades tecnicas para atuar com as linguagens abaixo
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
 
+Entre em contato comigo 👇
 
 [![Whatsapp](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://wa.link/q5ypxo)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hallansousa1@gmail.com)
