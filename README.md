@@ -29,7 +29,7 @@ Habilidades tecnicas para atuar com as linguagens abaixo
 
 ###
 
-<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbW01bHB6bTZ3aGNoZmFhd2J5dDNieGxmdHE2MnE1bWs2dmwxNDI4bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.webp" alt="Um gato engraçado">
+<img align="right" height="150" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbW01bHB6bTZ3aGNoZmFhd2J5dDNieGxmdHE2MnE1bWs2dmwxNDI4bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.webp">
 
 
 ###
