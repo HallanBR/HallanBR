@@ -29,9 +29,7 @@ Habilidades tecnicas para atuar com as linguagens abaixo
 
 ###
 
-<img src="https://giphy.com/embed/57YVteYGraIKl9zt23" width="480" height="480">   
-
-
+<iframe src="https://giphy.com/embed/57YVteYGraIKl9zt23" width="480" height="480" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/dev-desenvolvedor-maeztra-57YVteYGraIKl9zt23">via GIPHY</a></p>
 
 ###
 
