@@ -50,7 +50,7 @@ Entre em contato comigo 👇
 
 ###
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+<img align="right" height="150" src=""  />
 
 ###
 
@@ -70,7 +70,7 @@ Entre em contato comigo 👇
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
 </div>
 
-###
+
 
 <div align="left">
 
@@ -91,6 +91,7 @@ Entre em contato comigo 👇
     
   <a href="mailto:hallansousa1@gmail.com">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  
     
     
 </div>
@@ -101,3 +102,4 @@ Entre em contato comigo 👇
 
 
 
+<img src="https://raw.githubusercontent.com/HallanBR/HallanBR/output/snake.svg" alt="Snake animation" />
