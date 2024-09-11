@@ -29,7 +29,10 @@ Habilidades tecnicas para atuar com as linguagens abaixo
 
 ###
 
-<img src="https://giphy.com/gifs/dev-desenvolvedor-maeztra-57YVteYGraIKl9zt23" width="480" height="480" >
+<img src="https://giphy.com/gifs/dev-desenvolvedor-maeztra-57YVteYGraIKl9zt23" >
+
+<img src="https://giphy.com/gifs/pudgypenguins-data-code-coding-2IudUHdI075HL02Pkk/giphy.gif" alt="Um gato engraçado">
+
 
 ###
 
