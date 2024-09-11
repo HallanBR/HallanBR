@@ -73,7 +73,8 @@ Entre em contato comigo 👇
 ###
 
 <div align="left">
-  <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo" (https://web.telegram.org/k/#@HallanBR2000)  />
+  <a href="https://web.telegram.org/k/#@HallanBR2000">
+  <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"   />()
   <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
   <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
