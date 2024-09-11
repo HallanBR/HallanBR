@@ -73,25 +73,32 @@ Entre em contato comigo 👇
 ###
 
 <div align="left">
-  
-  <a href="https://wa.link/q5ypxo">
-    <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=008000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt=""   />
+
+  <a href= "https://www.linkedin.com/in/hallan-sousa-92641b173">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+
   <a href="https://www.instagram.com/hallan__martins/">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  
-    <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
+    
+  <a href="https://wa.link/q5ypxo">
+    <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="35" alt=""   />
+    
+  <a href="https://web.telegram.org/k/#@HallanBR2000">
+    <img src="https://img.shields.io/static/v1?message=Telegram&logo=twitch&label=&color=229ED9&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
+    
   <a href="https://discord.gg/bucqZJG9">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+    
   <a href="mailto:hallansousa1@gmail.com">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <a href= "https://www.linkedin.com/in/hallan-sousa-92641b173"
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+    
+    
 </div>
 
-###
+
 
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
 
-###
+
