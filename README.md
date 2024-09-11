@@ -50,7 +50,7 @@ Entre em contato comigo 👇
 
 ###
 
-<img align="right" height="150" src=""  />
+<img align="right" height="150" <iframe src="https://giphy.com/embed/57YVteYGraIKl9zt23"><a href="https://giphy.com/gifs/dev-desenvolvedor-maeztra-57YVteYGraIKl9zt23"></a></p>"  />
 
 ###
 
