@@ -1,17 +1,9 @@
-### Ola! Sou Hallan De Sousa, seja bem vindo 👋🙂
-
-![Hallan GitHub stats](https://github-readme-stats.vercel.app/api?username=HallanBR&hide=contribs,prs)
-
+<h2 align="left">Ola! Sou Hallan De Sousa, seja bem vindo 👋🙂</h2>
 
 ### Meu dispositivo 💻🤖
-
-
 ![Sistema operacional](https://img.shields.io/badge/Windows-Dell_G15-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-
 ![Processador](https://img.shields.io/badge/Intel-Core_i5_11th-0071C5?style=for-the-badge&logo=intel&logoColor=white)
-
 ![placa de video](https://img.shields.io/badge/NVIDIA-RTX3050-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
-
 
 ### Amante da tecnologia 😁🔥
 
@@ -28,29 +20,16 @@ Habilidades tecnicas para atuar com as linguagens abaixo
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
-
-Entre em contato comigo 👇
-
-[![Whatsapp](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://wa.link/q5ypxo)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hallansousa1@gmail.com)
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://web.telegram.org/k/#@HallanBR2000)
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/bucqZJG9)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hallan-sousa-92641b173)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/hallan__martins/)
-
-
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
-
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=maurodesouza&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maurodesouza&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=HallanBR&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=HallanBR&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
 ###
 
-<img align="right" height="150" <iframe src="https://giphy.com/embed/57YVteYGraIKl9zt23"><a href="https://giphy.com/gifs/dev-desenvolvedor-maeztra-57YVteYGraIKl9zt23"></a></p>"  />
+<img align="right" height="150" src="https://giphy.com/embed/57YVteYGraIKl9zt23"><a href="https://giphy.com/gifs/dev-desenvolvedor-maeztra-57YVteYGraIKl9zt23">  />
 
 ###
 
