@@ -63,4 +63,3 @@
 
 <br clear="both">
 
-[!(https://github-readme-stats.vercel.app/api?usernameHallanBR&show_icons=true&theme=tokyonight&count_private=true)](https://github.com/HallanBR/github-readme-stats)
