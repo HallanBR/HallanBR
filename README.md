@@ -1,13 +1,13 @@
-<h2 align="left">Ola! Sou Hallan De Sousa, seja bem vindo 👋🙂</h2>
+<h2 align="center">Ola! Sou Hallan De Sousa, seja bem vindo 👋🙂</h2>
 
-### Meu dispositivo 💻🤖
+<h3 align="center" >Meu dispositivo 💻🤖</h3>
 
-![Sistema operacional](https://img.shields.io/badge/Windows-Dell_G15-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-
-![Processador](https://img.shields.io/badge/Intel-Core_i5_11th-0071C5?style=for-the-badge&logo=intel&logoColor=white)
-
-![placa de video](https://img.shields.io/badge/NVIDIA-RTX3050-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
-
+<div align="center"> 
+  
+  ![Sistema operacional](https://img.shields.io/badge/Windows-Dell_G15-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+  ![Processador](https://img.shields.io/badge/Intel-Core_i5_11th-0071C5?style=for-the-badge&logo=intel&logoColor=white)
+  ![placa de video](https://img.shields.io/badge/NVIDIA-RTX3050-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
+</div>
 ###
 
 <div align="center">
@@ -15,7 +15,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=HallanBR&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
-### Apaixonado por tecnologia 😁🔥
+<h3 align="center">Apaixonado por tecnologia 😁🔥</h3>
 
 <img align="right" height="150" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbW01bHB6bTZ3aGNoZmFhd2J5dDNieGxmdHE2MnE1bWs2dmwxNDI4bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.webp">
 
@@ -40,7 +40,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="docker logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="30" alt="amazonwebservices logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" height="30" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="postgresql logo"  />
 </div>
@@ -63,6 +63,4 @@
 
 <br clear="both">
 
-
-
-<img src="https://raw.githubusercontent.com/HallanBR/HallanBR/output/snake.svg" alt="Snake animation" />
+[!(https://github-readme-stats.vercel.app/api?usernameHallanBR&show_icons=true&theme=tokyonight&count_private=true)](https://github.com/HallanBR/github-readme-stats)
