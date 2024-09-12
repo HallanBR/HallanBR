@@ -1,0 +1,12 @@
+name: Generate snake graph
+on:
+  schedule:
+    - cron: '0 * * * *'
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: Platane/snk@master
+        with:
+          username: HallanBR
+          token: ${{ secrets.GITHUB_TOKEN }}
