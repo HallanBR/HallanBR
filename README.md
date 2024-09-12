@@ -48,6 +48,8 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="52" height="40" alt="java logo"  />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="52" height="40" alt="csharp logo"  />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="52" height="40" alt="cplusplus logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="52" height="40" alt="mysql logo"  />
@@ -66,8 +68,9 @@
 
 </div>
 
-
-
+<p></p>
+<p></p>
+<p></p>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=HallanBR&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
