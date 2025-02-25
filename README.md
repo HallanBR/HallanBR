@@ -72,8 +72,6 @@
 <p></p>
 
 <div align="center">
-  <p> <img src=https://github-readme-stats.vercel.app/api?username=HallanBR&theme=blueberry&show_icons=true&hide_border=false&count_private=true height="150" width="500" /> </p>
-  <p> <img src=https://github-readme-streak-stats.herokuapp.com/?user=HallanBR&theme=blueberry&hide_border=false height="150" width="500" /> </p>
   <p> <img src=https://github-readme-stats.vercel.app/api/top-langs/?username=HallanBR&theme=blueberry&show_icons=true&hide_border=false&layout=compact height="150" width="500" /> </p>
   
 
