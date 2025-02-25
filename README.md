@@ -2,8 +2,8 @@
 
 
 
-<p align="center"> Atualmente estou cursando meu ultimo semestre em Analise e desenvolvimento de sistema </p>
-<p align="center"> Sou Desenvolvedor junior com foco em Back-End e Fullstack</p>
+<p align="center"> Analise e desenvolvimento de sistema concluido com sucesso, mas sigo estudando </p>
+<p align="center"> Sou Desenvolvedor junior </p>
 
 
 <h2></h2>
