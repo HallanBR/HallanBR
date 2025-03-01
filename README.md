@@ -2,8 +2,8 @@
 
 
 
-<p align="center"> Analise e desenvolvimento de sistema concluido com sucesso, mas sigo estudando </p>
-<p align="center"> Sou Desenvolvedor junior </p>
+<p align="center"> Analise e desenvolvimento de sistema concluido com sucesso, atualmente estudo linguagens de front-end paralelo com desenvolvimento mobile </p>
+<p align="center"> Estou constantemente atualizando meus conhecimentos e buscando novos desafios na area da tecnologia. Tenho paixao por aprender e aplicar esses conhecimentos. </p>
 
 
 <h2></h2>
