@@ -80,6 +80,6 @@
 
 <br clear="both"> 
 
-![snake gif](https://github.com/HallanBR/HallanBR/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/HallanBR/HallanBR/blob/output/github-contribution-grid-snake.svg).
 
-[![readme](https://github-readme-stats.vercel.app/api/pin/?username=HallanBR&repo=HallanBR&theme=react)](https://github.com/HallanBR/HallanBR)
+[![readme](https://github-readme-stats.vercel.app/api/pin/?username=HallanBR&repo=HallanBR&theme=react)](https://github.com/HallanBR/HallanBR).
