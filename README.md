@@ -14,11 +14,15 @@
 
 ###
 
+
 <div style="display: flex; justify-content: center; align-items: center;">
 
     <div style="text-align: left; margin-right: 20px;">
+
         <img src="https://img.shields.io/badge/Windows-Dell_G15-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Sistema operacional">
+
         <img src="https://img.shields.io/badge/Intel-Core_i5_11th-0071C5?style=for-the-badge&logo=intel&logoColor=white" alt="Processador">
+
         <img src="https://img.shields.io/badge/NVIDIA-RTX3050-76B900?style=for-the-badge&logo=nvidia&logoColor=white" alt="Placa de vídeo">
     </div>
 
