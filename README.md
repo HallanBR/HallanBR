@@ -8,29 +8,7 @@
 
 <p align="center"> Analise e Desenvolvimento de Sistemas concluido com sucesso. Atualmente estudo linguagens de front-end paralelo com desenvolvimento mobile. Estou constantemente atualizando meus conhecimentos e buscando novos desafios na area da tecnologia. Tenho paixao por aprender e aplicar esses conhecimentos. </p>
 
-<h2></h2>
 
-<h3 align="center" >Meu dispositivo 💻🤖</h3>
-
-###
-
-
-<div style="display: flex; justify-content: center; align-items: center;">
-
-    <div style="text-align: left; margin-right: 20px;">
-
-        <img src="https://img.shields.io/badge/Windows-Dell_G15-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Sistema operacional">
-
-        <img src="https://img.shields.io/badge/Intel-Core_i5_11th-0071C5?style=for-the-badge&logo=intel&logoColor=white" alt="Processador">
-
-        <img src="https://img.shields.io/badge/NVIDIA-RTX3050-76B900?style=for-the-badge&logo=nvidia&logoColor=white" alt="Placa de vídeo">
-    </div>
-
-    <div>
-        <img src="./src/200.webp" alt="Imagem do dispositivo">
-    </div>
-
-</div>
 
 
 
@@ -52,7 +30,6 @@
 
 
 <div align="center">
-  <div align="left">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="52" height="40" alt="html5 logo"  />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="52" height="40" alt="css3 logo"  />
     <img width="12" />
@@ -77,10 +54,10 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" width="52" height="40 />
     <img width="12" />
   </div>
-  <div align="right>
-    <img src="./src/100.webp">
-  </div>
-</div>
+    <div align="center">
+    <img src="./src/100.webp"><img src="./src/100.webp"><img src="./src/100.webp"><img src="./src/100.webp">
+    </div>
+
 
 <p></p>
 <p></p>
