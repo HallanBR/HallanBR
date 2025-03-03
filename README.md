@@ -55,7 +55,7 @@
     <img width="12" />
   </div>
     <div align="center">
-    <img src="./src/100.webp"><img src="./src/100.webp"><img src="./src/100.webp"><img src="./src/100.webp">
+    <img src="./src/100.webp"><img src="./src/100.webp"><img src="./src/100.webp">
     </div>
 
 
