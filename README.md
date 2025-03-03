@@ -59,9 +59,12 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" width="52" height="40 />
     <img width="12" />
   </div>
-    <div align="center">
-      <img src="./src/100.webp"><img src="./src/100.webp"><img src="./src/100.webp">
-    </div>
+  
+  <link rel="stylesheet" type="text/css" href="/css/style.css">
+    
+  <div class="container">
+    <script src="/js/script.js"></script> 
+  </div>
 
 
 <p></p>

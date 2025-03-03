@@ -1,0 +1,27 @@
+body {
+    background-color: black;
+    color: green;
+    font-family: monospace;
+    white-space: pre;
+  }
+  
+  .container{
+    display: flex;    /* Ajuste o display para flex */
+    justify-content: center;    /* Centralize o texto */
+    width: 100vw;       /* Ajuste a largura da div */
+    font-size: 15px; /* Ajuste o tamanho da fonte */
+    line-height: 1.2; /* Ajuste o espaçamento entre linhas */
+  }
+
+  .matrix {     
+    animation: matrix-scroll 5s linear infinite;    /* Ajuste a animação */   
+  }
+  
+  @keyframes matrix-scroll {    /* Ajuste a animação */
+    0% {
+      transform: translateY(-100%);   /* Ajuste a translação */
+    }
+    100% {  
+      transform: translateY(0);  /* Ajuste a translação */
+    }
+  }
