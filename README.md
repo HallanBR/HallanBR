@@ -12,7 +12,7 @@
 <br>
 
 
-<p align="center"> Analise e Desenvolvimento de Sistemas concluido com sucesso. Atualmente estudo linguagens de front-end paralelo com desenvolvimento mobile. Estou constantemente atualizando meus conhecimentos e buscando novos desafios na area da tecnologia. Tenho paixao por aprender e aplicar esses conhecimentos. </p>
+<p align="center"> Atualmente estudo linguagen JAVA. Estou constantemente atualizando meus conhecimentos e buscando novos desafios na area da tecnologia. Tenho paixao por aprender e aplicar esses conhecimentos. </p>
 
 <br>
 
