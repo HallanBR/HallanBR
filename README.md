@@ -12,7 +12,9 @@
 <br>
 
 
-<p align="center"> Atualmente estudo linguagen JAVA. Estou constantemente atualizando meus conhecimentos e buscando novos desafios na area da tecnologia. Tenho paixao por aprender e aplicar esses conhecimentos. </p>
+<p align="center"> Atualmente estudo linguagen JAVA.
+ Estou constantemente atualizando meus conhecimentos e buscando novos desafios na area da tecnologia. 
+Tenho paixao por aprender e aplicar esses conhecimentos. </p>
 
 <br>
 
